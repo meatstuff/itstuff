@@ -1,6 +1,5 @@
 <a href="http://itstuff.org.uk/"><img src="http://itstuff.org.uk/data/site_img/june04.png"/></a>
 
-Explaining the good stuff in IT & treating the bad stuff with the cynicism and contempt that it deserves.
 
 **It should be noted that this is currently in active development so will contain bugs.**
 
